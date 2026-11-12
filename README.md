@@ -41,6 +41,26 @@ I earned a **BS in Computer Science (3.9 CGPA, Gold Medalist)**. I've also worke
 
 ## 🌟 Featured Projects
 
+*My strongest published and client-facing work comes first, followed by selected open-source Flutter projects.*
+
+### 🥇 [Makki TV Official — Published Android App](https://play.google.com/store/apps/details?id=com.ahmad.makkitvofficial)
+
+**1M+ Google Play downloads · Public app rating: 4.1/5**
+
+Built the Flutter mobile application **from scratch**, covering end-to-end mobile development, backend REST API integration, and release work. This production app is an example of delivering a mobile product to real users at scale.
+
+**[▶ View Makki TV on Google Play](https://play.google.com/store/apps/details?id=com.ahmad.makkitvofficial)**
+
+### 🥈 [Resident — Citizen & Government Engagement Platform](https://resident.baseline.io/home)
+
+Contributed for **approximately three years** to a multi-platform product built with **Flutter for Android, iOS, and Web**. My work included features and areas such as **My Government, Elect, Ministries, Google Maps integrations, Post Feed, and Home Feed**.
+
+This is professional project experience; the product's private source code and internal materials are not shared here.
+
+**[🌐 Explore the public Resident website](https://resident.baseline.io/home)**
+
+### 💻 Open-Source Flutter Projects
+
 *Selected from my public GitHub repositories — click through to explore the implementation, documentation and available screenshots.*
 
 ### 🎟️ [Invitor — Digital Invitation Creator](https://github.com/mrusamamuzaffar/invitor)
@@ -80,9 +100,9 @@ A news app with **search, multiple themes, 3D-style navigation and BLoC-based or
 
 ## 📱 Professional Work
 
-Beyond public code samples, I've worked on client-oriented mobile projects including **Makki TV**, an Android app published on Google Play. Some commercial projects are not available as public source repositories.
+My **top two featured projects above — Makki TV and Resident —** highlight end-to-end product delivery and long-term cross-platform collaboration. Some client projects have private source code and cannot be shared publicly.
 
-See a broader overview of my work on my **[portfolio website](https://usama-apps-in-motion-9zf0om.v2.appdeploy.ai/)**.
+For a broader overview, visit my **[portfolio website](https://usama-apps-in-motion-9zf0om.v2.appdeploy.ai/)**.
 
 ## 🏅 Background & Client Reputation
 
